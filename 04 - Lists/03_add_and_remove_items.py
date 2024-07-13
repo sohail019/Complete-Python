@@ -1,7 +1,7 @@
+print('----------------------Add Items ------------------------')
+
 fruits = ['apple', 'mango', 'banana', 'orange']
 print(fruits) 
-
-print('----------------------Add Items ------------------------')
 # Add Items
 
 # Append Items - To add an item at the end of the list, use append() method
@@ -23,6 +23,8 @@ print(chai)
 fruits.extend(chai)   
 print(fruits) #['apple', 'mango', 'banana', 'orange', 'spinach', 'brocolli', 'tomato', 'potato', 'masala chai', 'ginger tea', 'lemon tea'] 
 
+# ----------------------------------------------------------------
+print('')
 # Remove
 print('----------------------Remove Items ------------------------')
 # Remove specified items
@@ -37,6 +39,8 @@ cold_drinks.pop(1)
 print(cold_drinks) # pepsi will be removed
 # # Note - If you don't specify the index, the pop() method removes the last item
 
+# ----------------------------------------------------------------
+print('')
 print('----------------------del Keywords ------------------------')
 # # del keyword also removes the specified index
 print(cold_drinks)
@@ -47,6 +51,8 @@ print(cold_drinks)
 del cold_drinks
 # print(cold_drinks)
 
+# ----------------------------------------------------------------
+print('')
 print('----------------------Clear the list ------------------------')
 # # Clear the list
 chai = ['lemon tea', 'ginger tea', 'masala tea']
