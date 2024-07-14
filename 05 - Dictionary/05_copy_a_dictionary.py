@@ -1,4 +1,11 @@
 # --------------------------------------------------------------
+my_favt = {
+    'language' : 'python',
+    'fruit' : 'watermelon',
+    'sports': 'cricket',
+    'player': 'rohit sharma'
+}
+print(my_favt)
 # Copy a Dictionary
 print('')
 print('--------------Copy a Dictionary----------------')
