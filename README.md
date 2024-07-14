@@ -4,7 +4,13 @@ Welcome to the Complete Python Repository! This repository is designed to be a c
 
 ## Table of Contents
 
-- [Basics of Python]()
+- [x] [01 - Basics of Python](https://github.com/sohail019/Complete-Python/tree/main/01%20-%20Basics)
+- [x] [02 - Numbers](https://github.com/sohail019/Complete-Python/tree/main/02%20-%20Numbers)
+- [x] [03 - Strings](https://github.com/sohail019/Complete-Python/tree/main/03%20-%20Strings)
+- [x] [04 - List](https://github.com/sohail019/Complete-Python/tree/main/03%20-%20Strings)
+- [ ] [05 - Dictionary]()
+- [ ] [06 - Tuples]()
+- [ ] [07 - Conditional]()
 
 ## Introduction
 
