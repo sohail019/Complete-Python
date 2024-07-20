@@ -2,7 +2,7 @@
 # Problem: Create a Car class with attributes like brand and model. Then create an instance of this class.
 
 # creating class syntax
-class Car:
+class Car:   
     # init is a special method called constructor. It gets called automatically when you create a new object of the Car class
 
     def __init__(self, brand, model): # self refers to the instance of the class being created!! 
