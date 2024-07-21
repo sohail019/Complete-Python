@@ -10,7 +10,12 @@ Welcome to the Complete Python Repository! This repository is designed to be a c
 - [x] [04 - List](https://github.com/sohail019/Complete-Python/tree/main/04%20-%20Lists)
 - [x] [05 - Dictionary](https://github.com/sohail019/Complete-Python/tree/main/05%20-%20Dictionary)
 - [x] [06 - Tuples](https://github.com/sohail019/Complete-Python/tree/main/06%20-%20Tuples)
-- [ ] [07 - Conditional]()
+- [x] [07 - Conditional](https://github.com/sohail019/Complete-Python/tree/main/07%20-%20Conditional)
+- [x] [08 - Loops](https://github.com/sohail019/Complete-Python/tree/main/08%20-%20Loops)
+- [x] [09 - Functions](https://github.com/sohail019/Complete-Python/tree/main/09%20-%20Functions)
+- [x] [10 - Scope and Closures](https://github.com/sohail019/Complete-Python/tree/main/10%20-%20Scopes%20and%20Closures)
+- [x] [11 - Object Oriented Programming](https://github.com/sohail019/Complete-Python/tree/main/11%20-%20Object%20Oriented%20Programming)
+- [ ] [12 - Decorators]()
 
 ## Introduction
 
