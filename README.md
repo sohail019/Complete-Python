@@ -15,7 +15,8 @@ Welcome to the Complete Python Repository! This repository is designed to be a c
 - [x] [09 - Functions](https://github.com/sohail019/Complete-Python/tree/main/09%20-%20Functions)
 - [x] [10 - Scope and Closures](https://github.com/sohail019/Complete-Python/tree/main/10%20-%20Scopes%20and%20Closures)
 - [x] [11 - Object Oriented Programming](https://github.com/sohail019/Complete-Python/tree/main/11%20-%20Object%20Oriented%20Programming)
-- [ ] [12 - Decorators]()
+- [x] [12 - Decorators](https://github.com/sohail019/Complete-Python/tree/main/12%20-%20Decorators)
+- [x] [13 - Error Handling](https://github.com/sohail019/Complete-Python/tree/main/13%20-%20Error%20Handling)
 
 ## Introduction
 
@@ -32,6 +33,10 @@ To get started with Python, you'll need to have Python installed on your machine
       git clone https://github.com/sohail019/complete-python.git
 4. Navigate to the cloned directory and start exploring the content.
 
+
+## Acknowledgments
+
+Special thanks to Hitesh Sir's [chaiaurcode](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s)  for the amazing Python Series. Check out the [YouTube channel](https://www.youtube.com/@chaiaurcode) for more great content.
 
 ## Contribution
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request.
